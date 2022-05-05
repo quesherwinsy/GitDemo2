@@ -14,6 +14,9 @@ public class RESRAPITest {
 		System.out.println("postJira5 - by gitmaster");
 		System.out.println("postJira6 - by gitmaster");
 		System.out.println("postJira7 - by gitmaster");
+		
+		System.out.println("postJira8 - by gitmaster");
+		System.out.println("postJira9 - by gitmaster");
 	}
 
 	@Test
