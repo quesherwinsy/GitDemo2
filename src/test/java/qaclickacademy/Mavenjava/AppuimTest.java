@@ -24,5 +24,6 @@ public class AppuimTest {
 		System.out.println("IOSApps");
 		
 		System.out.println("IOSApps - asian guy demo Develop branch");
+		System.out.println("IOSApps - American demo Develop branch");
 	}
 }
