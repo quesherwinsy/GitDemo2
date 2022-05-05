@@ -9,6 +9,7 @@ public class SeleniumTest {
 		System.out.println("BrowserAutomation");
 		
 		System.out.println("Web Automation - by gitmaster");
+		System.out.println("Web Automation - by git american");
 	}
 
 	@Test
