@@ -9,6 +9,7 @@ public class AppuimTest {
 		System.out.println("NativeAppAndroid");
 		
 		System.out.println("NativeAppAndroid - asian guy demo Develop branch");
+		System.out.println("NativeAppAndroid - master demo Develop branch");
 	}
 	
 	@Test
